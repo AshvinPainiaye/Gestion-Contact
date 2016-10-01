@@ -1,0 +1,4 @@
+services:
+#    hugocorpcontact.example:
+#        class: hugocorp\contactBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
